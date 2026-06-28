@@ -390,39 +390,6 @@ grid-template-columns:1fr;
 }
 
 }
-/* Featured Projects */
-.featured-projects .project-card {
-    background: #fff;
-    border-radius: 15px;
-    overflow: hidden;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-    transition: 0.3s;
-    text-align: center;
-    padding-bottom: 20px;
-}
-
-.featured-projects .project-card img {
-    width: 100%;
-    height: 240px;
-    object-fit: cover;
-    display: block;
-}
-
-.featured-projects .project-card h3 {
-    margin: 20px 15px 10px;
-    font-size: 1.6rem;
-}
-
-.featured-projects .project-card p {
-    padding: 0 20px;
-    line-height: 1.6;
-    font-size: 1rem;
-}
-
-.featured-projects .project-card a {
-    display: inline-block;
-    margin-top: 15px;
-}
 /* Projects */
 
 .projects{
